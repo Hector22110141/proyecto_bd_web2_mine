@@ -1,0 +1,378 @@
+{
+    "Peliculas": {
+        "Genero":{
+            "Accion":{
+        "Pulp Fiction": {
+            "Lanzamiento": "1994",
+            "Genero": "Acción, Triller, Crimen, Historias Cruzadas ",
+            "Descripcción": {
+                "=":"Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace, Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer,Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe, Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra, Su misión: recuperar un misterioso maletín, Es en ese momento cuando empeizan los problemas, No solo porque los criminales son polos opuestos, sino porque, además, Marsellus le encarga a Vincent que cuide de su novia Mia Jones-Wallace, algo con lo que su inseparable compañero no estáde acuerdo, Además, de fondo, se cuenta la huída de Butch Coolidge, un boxeador que pretende estafar a Wallace, con el que ha acordado un combate amañado; y la historia de dos criminales Pumpkin-Ringo y Honey Bunny-Yolanda que, por su lamentable situación laboral, deciden atracar un establecimiento."
+            }
+        },
+        "Armageddon": {
+            "Lanzamiento": "1998", 
+            "Genero": "Sci-Fi, Acción",
+            "Descripcción": {
+                "=":"Un asteroide del tamaño del estado de Tejas apunta directamente hacia la Tierra, Los expertos de la NASA tan sólo encuentran una posible solución: enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta, Para ello recurren a Harry S Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon."
+            }
+        },
+        "Guerra Mundial z": {
+            "Lanzamiento": "2013",
+            "Genero": "Catastrofe, Acción, Sci-Fi, Triller, Terror, Enfermedad, Zombies",
+            "Descripcción": {
+                "=": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane (Brad Pitt), un experto investigador de las Naciones Unidas, intentaráevitar el fin de la civilización en una carrera contra el tiempo y el destino, La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia."
+            }
+        },
+        "Bastardos Sin Gloria": {
+            "Lanzamiento": "2009",
+            "Genero": "Acción, Bélica, Comedia, Nazismo, Veguanza",
+            "Descripcción": {
+                "=": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas, Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola, Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable, Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible."
+            }
+        }},
+        "Comedia":{
+        "La Máscara": {
+            "Lanzamiento": "1994",
+            "Genero": "Comedia, Fantasia",
+            "Descripcción": {
+                "=":"Standley Ipkiss (Jim Carrey) vive en Edge City y trabaja en un banco, Tiene una vida aburrida y todo el mundo le toma el pelo y, aunque lo sabe, es tan pusilánime que lo permite, Sus únicos amigos son su perro Milo y Charlie, Éste cree que es hora de que su amigo espabile y decide llevarle al Cabaret Coco cuyo dueño, Dorian Tyrell (Peter Greene), tiene una novia (Cameron Díaz) que trataráde descifrar la caja fuerte del banco donde trabaja el protagonista, Después de pasar un día horrible, Standely encontraráuna misteriosa máscara que llamarásu atención, Es la máscara de Loki, dios de la travesura y la maldad, Al ponérsela descubriráque tiene poderes y que sus efectos hacen que su personalidad cambie por completo, Se convertiráen un pillo, listo y ocurrente, que pondrápatas arriba todo su mundo."
+            }
+        },
+        "El Hijo de la Mascara": {
+            "Lanzamiento": "2005",
+            "Genero": "Fantasía, Comedia",
+            "Descripcción": {
+                "=": "Diez años después de perturbar la vida de un hombre ingenuo, la famosa máscara de Loki cae en manos de un joven padre: cuando el caricaturista Tim Avery (Jamie Kennedy) supera su temor a la paternidad tras el nacimiento de su primer hijo, descubre que el niño ha nacido con los poderes de la máscara, La situación se complica cuando el celoso perro de la familia se enfrenta al niño por el control de la máscara, Lo que todos ignoran es que Loki (Alan Cumming), el malvado dios escandinavo, busca la máscara y estádispuesto a todo con tal de recuperarla."
+            }
+        },
+        "Bastardos Sin Gloria": {
+            "Lanzamiento": "2009",
+            "Genero": "Acción, Bélica, Comedia, Nazismo, Veguanza",
+            "Descripcción": {
+                "=": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas, Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola, Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable, Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible."
+            }
+        }},
+        "Animación":{
+        "Aladdin": {
+            "Lanzamiento": "1992",
+            "Genero": "Animación, Infantil",
+            "Descripcción": {
+                "=": "Basada en el famoso cuento (Aladino y la lámpara maravillosa), la trama se sitúa en el exótico paisaje del mítico reino árabe de Agrabah, Aladdin es un ingenioso joven que, a pesar de vivir en un estado de extrema pobreza, sueña con casarse con la bella hija del sultán, la princesa Yasmin, El destino interviene cuando el astuto visir del Sultán, Yafar, recluta a Aladdin para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas, El joven encuentra la lámpara, en la que vive un genio que concede tres deseos a quien lo libere."
+            }
+        },
+        "El Rey Leon": {
+            "Lanzamiento": "1994",
+            "Genero": "Animación, Infantil",
+            "Descripcción": {
+                "=": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono, Sin embargo, al ser injustamente acusado por el malvado Scar de la muerte de su padre, se ve obligado a exiliarse, Durante su destierro, hará buenas amistades e intentará regresar para recuperar lo que legítimamente le corresponde."
+            }
+        },
+        "Extremadamente Goofy": {
+            "Lanzamiento": "2000",
+            "Genero": "Animación, Infantil",
+            "Descripcción": {
+                "=": "Nuevas aventuras de Goofy y su hijo adolescente Max, En esta ocasión, Max se ha matriculado en la universidad, y dedica su tiempo libre a practicar todo tipo de arriesgados deportes, Goofy le echa tanto de menos, que se da cuenta de que hasta entonces ha dedicado demasiado tiempo al trabajo y muy poco a su hijo, Así que toma una decisión radical: se matricula también en la universidad, Secuela directa a DVD de la película Goofy e hijo, dirigida por Kevin Lima en 1995."
+            }
+        }},
+        "Drama":{
+            "Titanes Hicieron Historia": {
+                "Lanzamiento": "2000", 
+                "Genero": "Drama, Deportes, Racismo",
+                "Descripcción": {
+                    "=":"Basada en hechos reales, el film cuenta la experiencia vivida en una ciudad, que dejando a un lado el recelo y resentimiento entre blancos y negros, se une en busca de un objetivo común, Después de llevar a su equipo a la victoria durante quince temporadas, el entrenador de fútbol americano Bill Yoast (Will Patton) es relegado por Herman Boone (Washington), El nuevo entrenador combate los problemas raciales a base de dureza, disciplina y trato igualitario, Juntos consiguen transformar a un puñado de hostiles jóvenes en verdaderos campeones, y llevar a su equipo a lo más alto."
+                }
+            },
+        "Bob Marley La Leyenda": {
+            "Lanzamiento": "2024",
+            "Genero": "Drama, Biopic",
+            "Descripcción": {
+                "=": "Una celebración de la vida y la música de un icono que inspiró a generaciones a través de su mensaje de amor y unidad, Por primera vez en la gran pantalla, descubrimos la historia de superación de la adversidad de Bob y la travesía que subyace a su música revolucionaria."
+            }
+        }},
+        "Racismo":{
+            "Titanes Hicieron Historia": {
+                "Lanzamiento": "2000", 
+                "Genero": "Drama, Deportes, Racismo",
+                "Descripcción": {
+                    "=":"Basada en hechos reales, el film cuenta la experiencia vivida en una ciudad, que dejando a un lado el recelo y resentimiento entre blancos y negros, se une en busca de un objetivo común Después de llevar a su equipo a la victoria durante quince temporadas, el entrenador de fútbol americano Bill Yoast (Will Patton) es relegado por Herman Boone (Washington), El nuevo entrenador combate los problemas raciales a base de dureza, disciplina y trato igualitario, Juntos consiguen transformar a un puñado de hostiles jóvenes en verdaderos campeones, y llevar a su equipo a lo más alto."
+                }
+        }},
+        "Terror":{
+            "SawX": {
+                "Lanzamiento": "2023",
+                "Genero": "Triller, Terror, Gore",
+                "Descripcción": {
+                    "=": "Situada entre los acontecimientos sucedidos en SAW y SAW II, John, desesperado y enfermo, viaja a México para someterse a un tratamiento experimental y muy arriesgado con la esperanza de curar su cáncer mortal Sin embargo, toda la operación resulta ser un fraude para engañar a aquellos más vulnerables, Lleno de rabia y con un nuevo y escabroso propósito, John retomará su trabajo como asesino en serie y dará a probar su propia medicina a los embaucadores, Bajo la atenta mirada de Jigsaw, los jóvenes se enfrentaran a las trampas más ingeniosas, mortales y tortuosas en un visceral y despiadado juego."
+                }
+            }},
+            "Triller":{
+                "SawX": {
+                    "Lanzamiento": "2023",
+                    "Genero": "Triller, Terror, Gore",
+                    "Descripcción": {
+                        "=": "Situada entre los acontecimientos sucedidos en SAW y SAW II, John, desesperado y enfermo, viaja a México para someterse a un tratamiento experimental y muy arriesgado con la esperanza de curar su cáncer mortal, Sin embargo, toda la operación resulta ser un fraude para engañar a aquellos más vulnerables, Lleno de rabia y con un nuevo y escabroso propósito, John retomará su trabajo como asesino en serie y dará a probar su propia medicina a los embaucadores, Bajo la atenta mirada de Jigsaw, los jóvenes se enfrentaran a las trampas más ingeniosas, mortales y tortuosas en un visceral y despiadado juego."
+                    }
+                },
+                "Argylle": {
+                    "Lanzamiento": "2024",
+                    "Genero": "Triller, Acción, Comedia, Espionaje",
+                    "Descripcción": {
+                        "=": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece."
+                    }
+                },
+                "Beekeeper": {
+                    "Lanzamiento": "2024",
+                    "Genero": "Acción, Triller, Venganza",
+                    "Descripcción": {
+                        "=":"La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como Beekeeper."
+                    }
+                }},
+        "Crimen":{
+            "Pulp Fiction": {
+                "Lanzamiento": "1994",
+                "Genero": "Acción, Triller, Crimen, Historias Cruzadas ",
+                "Descripcción": {
+                    "=":"Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace, Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer, Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe, Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra, Su misión: recuperar un misterioso maletín, Es en ese momento cuando empeizan los problemas, No solo porque los criminales son polos opuestos, sino porque, además, Marsellus le encarga a Vincent que cuide de su novia Mia Jones-Wallace, algo con lo que su inseparable compañero no estáde acuerdo Además, de fondo, se cuenta la huída de Butch Coolidge, un boxeador que pretende estafar a Wallace, con el que ha acordado un combate amañado, y la historia de dos criminales Pumpkin-Ringo y Honey Bunny-Yolanda que, por su lamentable situación laboral, deciden atracar un establecimiento."
+                }
+            }
+        },
+        "Venganza":{
+            "Beekeeper": {
+                "Lanzamiento": "2024",
+                "Genero": "Acción, Triller, Venganza",
+                "Descripcción": {
+                    "=":"La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como Beekeeper."
+                }
+            }
+        },
+        "Historia":{
+            "Napoleón": {
+                "Lanzamiento": "2023",
+                "Genero": "Drama, Historia",
+                "Descripcción": {
+                    "=": "Los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador, La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina."
+                }
+            }
+        },
+        "Aventura":{
+            "Duna": {
+                "Lanzamiento": "2024", 
+                "Genero": "Sci-Fi, Aventura, Acción, Drama",
+                "Descripcción": {
+                    "=":"El joven Paul Atreides se une a la tribu de los Fremen y comienza un viaje espiritual y marcial para convertirse en mesías, mientras intenta evitar el horrible pero inevitable futuro que ha presenciado: una Guerra Santa en su nombre, que se extiende por todo el universo conocido"
+                }
+            }
+        },
+        "Sci-Fi":{
+            "Duna": {
+                "Lanzamiento": "2024", 
+                "Genero": "Sci-Fi, Aventura, Acción, Drama",
+                "Descripcción": {
+                    "=":"El joven Paul Atreides se une a la tribu de los Fremen y comienza un viaje espiritual y marcial para convertirse en mesías, mientras intenta evitar el horrible pero inevitable futuro que ha presenciado: una Guerra Santa en su nombre, que se extiende por todo el universo conocido"
+                }
+            }
+        },
+        "Infantil":{
+            "Wish": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas."
+                }
+            },
+            "Patos": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Los Mallard emprenden el viaje hacia el sur para pasar el invierno, pero nada sale como estaba previsto, La experiencia les ayudará a descubrir horizontes desconocidos, hacer nuevos amigos, a vivir experiencias que jamás imaginaron, y de paso, a conocerse mejor."
+                }
+            },
+            "Trolls": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Poppy se embarcan en un angustioso y emotivo viaje para reunir a los otros hermanos y rescatar a Floyd de un destino aún peor que la oscuridad de la cultura pop."
+                }
+            }
+        },
+        "Familia":{
+            "Wonka": {
+                "Lanzamiento": "2023",
+                "Genero": "Fantasía, Comedia, Familia",
+                "Descripcción": {
+                    "=": "Basada en el personaje que protagoniza ‘Charlie y la fábrica de chocolate’, el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, ‘Wonka’ cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día, centrándose en los inicios del joven y de cómo conoció a Oompa-Loompas en una de sus primeras aventuras."
+                }
+            }
+        },
+        "Fantasía":{
+            "El Hijo de la Mascara": {
+                "Lanzamiento": "2005",
+                "Genero": "Fantasía, Comedia",
+                "Descripcción": {
+                    "=": "Diez años después de perturbar la vida de un hombre ingenuo, la famosa máscara de Loki cae en manos de un joven padre: cuando el caricaturista Tim Avery (Jamie Kennedy) supera su temor a la paternidad tras el nacimiento de su primer hijo, descubre que el niño ha nacido con los poderes de la máscara, La situación se complica cuando el celoso perro de la familia se enfrenta al niño por el control de la máscara, Lo que todos ignoran es que Loki (Alan Cumming), el malvado dios escandinavo, busca la máscara y estádispuesto a todo con tal de recuperarla."
+                }
+            }
+        },
+        "Zombies":{
+            "Guerra Mundial z": {
+                "Lanzamiento": "2013",
+                "Genero": "Catastrofe, Acción, Sci-Fi, Triller, Terror, Enfermedad, Zombies",
+                "Descripcción": {
+                    "=": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane (Brad Pitt), un experto investigador de las Naciones Unidas, intentaráevitar el fin de la civilización en una carrera contra el tiempo y el destino, La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia."
+                }
+            }
+        }
+    },
+    "Lanzamiento":{
+        "90":{
+            "Pulp Fiction": {
+                "Lanzamiento": "1994",
+                "Genero": "Acción, Triller, Crimen, Historias Cruzadas ",
+                "Descripcción": {
+                    "=":"Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace, Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer, Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe, Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra, Su misión: recuperar un misterioso maletín, Es en ese momento cuando empeizan los problemas, No solo porque los criminales son polos opuestos, sino porque, además, Marsellus le encarga a Vincent que cuide de su novia Mia Jones-Wallace, algo con lo que su inseparable compañero no estáde acuerdo. Además, de fondo, se cuenta la huída de Butch Coolidge, un boxeador que pretende estafar a Wallace, con el que ha acordado un combate amañado; y la historia de dos criminales Pumpkin-Ringo y Honey Bunny-Yolanda que, por su lamentable situación laboral, deciden atracar un establecimiento."
+                }
+            },
+            "Armageddon": {
+                "Lanzamiento": "1998", 
+                "Genero": "Sci-Fi, Acción",
+                "Descripcción": {
+                    "=":"Un asteroide del tamaño del estado de Tejas apunta directamente hacia la Tierra, Los expertos de la NASA tan sólo encuentran una posible solución: enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta, Para ello recurren a Harry S, Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon."
+                }
+            },
+            "La Máscara": {
+                "Lanzamiento": "1994",
+                "Genero": "Comedia, Fantasia",
+                "Descripcción": {
+                    "=":"Standley Ipkiss (Jim Carrey) vive en Edge City y trabaja en un banco, Tiene una vida aburrida y todo el mundo le toma el pelo y, aunque lo sabe, es tan pusilánime que lo permite, Sus únicos amigos son su perro Milo y Charlie, Éste cree que es hora de que su amigo espabile y decide llevarle al Cabaret Coco cuyo dueño, Dorian Tyrell (Peter Greene), tiene una novia (Cameron Díaz) que trataráde descifrar la caja fuerte del banco donde trabaja el protagonista, Después de pasar un día horrible, Standely encontraráuna misteriosa máscara que llamarásu atención, Es la máscara de Loki, dios de la travesura y la maldad, Al ponérsela descubriráque tiene poderes y que sus efectos hacen que su personalidad cambie por completo, Se convertiráen un pillo, listo y ocurrente, que pondrápatas arriba todo su mundo."
+                }
+            },
+            "Aladdin": {
+                "Lanzamiento": "1992",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Basada en el famoso cuento «Aladino y la lámpara maravillosa», la trama se sitúa en el exótico paisaje del mítico reino árabe de Agrabah, Aladdin es un ingenioso joven que, a pesar de vivir en un estado de extrema pobreza, sueña con casarse con la bella hija del sultán, la princesa Yasmin, El destino interviene cuando el astuto visir del Sultán, Yafar, recluta a Aladdin para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas, El joven encuentra la lámpara, en la que vive un genio que concede tres deseos a quien lo libere."
+                }
+            },
+            "El Rey Leon": {
+                "Lanzamiento": "1994",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono, Sin embargo, al ser injustamente acusado por el malvado Scar de la muerte de su padre, se ve obligado a exiliarse Durante su destierro, hará buenas amistades e intentará regresar para recuperar lo que legítimamente le corresponde."
+                }
+            }
+        },
+        "2000":{
+            "Bastardos Sin Gloria": {
+                "Lanzamiento": "2009",
+                "Genero": "Acción, Bélica, Comedia, Nazismo, Veguanza",
+                "Descripcción": {
+                    "=": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas, Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola, Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable, Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible."
+                }
+            },
+            "El Hijo de la Mascara": {
+                "Lanzamiento": "2005",
+                "Genero": "Fantasía, Comedia",
+                "Descripcción": {
+                    "=": "Diez años después de perturbar la vida de un hombre ingenuo, la famosa máscara de Loki cae en manos de un joven padre: cuando el caricaturista Tim Avery (Jamie Kennedy) supera su temor a la paternidad tras el nacimiento de su primer hijo, descubre que el niño ha nacido con los poderes de la máscara, La situación se complica cuando el celoso perro de la familia se enfrenta al niño por el control de la máscara, Lo que todos ignoran es que Loki (Alan Cumming), el malvado dios escandinavo, busca la máscara y estádispuesto a todo con tal de recuperarla."
+                }
+            },
+            "Extremadamente Goofy": {
+                "Lanzamiento": "2000",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Nuevas aventuras de Goofy y su hijo adolescente Max, En esta ocasión, Max se ha matriculado en la universidad, y dedica su tiempo libre a practicar todo tipo de arriesgados deportes, Goofy le echa tanto de menos, que se da cuenta de que hasta entonces ha dedicado demasiado tiempo al trabajo y muy poco a su hijo, Así que toma una decisión radical: se matricula también en la universidad, Secuela directa a DVD de la película Goofy e hijo, dirigida por Kevin Lima en 1995."
+                }
+            },
+            "Titanes Hicieron Historia": {
+                "Lanzamiento": "2000", 
+                "Genero": "Drama, Deportes, Racismo",
+                "Descripcción": {
+                    "=":"Basada en hechos reales, el film cuenta la experiencia vivida en una ciudad, que dejando a un lado el recelo y resentimiento entre blancos y negros, se une en busca de un objetivo común, Después de llevar a su equipo a la victoria durante quince temporadas, el entrenador de fútbol americano Bill Yoast (Will Patton) es relegado por Herman Boone (Washington), El nuevo entrenador combate los problemas raciales a base de dureza, disciplina y trato igualitario, Juntos consiguen transformar a un puñado de hostiles jóvenes en verdaderos campeones, y llevar a su equipo a lo más alto."
+                }
+            }
+        },
+        "2010":{
+            "Guerra Mundial z": {
+                "Lanzamiento": "2013",
+                "Genero": "Catastrofe, Acción, Sci-Fi, Triller, Terror, Enfermedad, Zombies",
+                "Descripcción": {
+                    "=": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane (Brad Pitt), un experto investigador de las Naciones Unidas, intentaráevitar el fin de la civilización en una carrera contra el tiempo y el destino, La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia."
+                }
+            }
+            
+        },
+        "2020":{
+            "Wonka": {
+                "Lanzamiento": "2023",
+                "Genero": "Fantasía, Comedia, Familia",
+                "Descripcción": {
+                    "=": "Basada en el personaje que protagoniza ‘Charlie y la fábrica de chocolate’, el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, ‘Wonka’ cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día, centrándose en los inicios del joven y de cómo conoció a Oompa-Loompas en una de sus primeras aventuras."
+                }
+            },
+            "Trolls": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Poppy se embarcan en un angustioso y emotivo viaje para reunir a los otros hermanos y rescatar a Floyd de un destino aún peor que la oscuridad de la cultura pop."
+                }
+            },
+            "Wish": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas."
+                }
+            },
+            "Patos": {
+                "Lanzamiento": "2023",
+                "Genero": "Animación, Infantil",
+                "Descripcción": {
+                    "=": "Los Mallard emprenden el viaje hacia el sur para pasar el invierno, pero nada sale como estaba previsto, La experiencia les ayudará a descubrir horizontes desconocidos, hacer nuevos amigos, a vivir experiencias que jamás imaginaron, y de paso, a conocerse mejor."
+                }
+            },
+            "Duna": {
+                "Lanzamiento": "2024", 
+                "Genero": "Sci-Fi, Aventura, Acción, Drama",
+                "Descripcción": {
+                    "=":"El joven Paul Atreides se une a la tribu de los Fremen y comienza un viaje espiritual y marcial para convertirse en mesías, mientras intenta evitar el horrible pero inevitable futuro que ha presenciado: una Guerra Santa en su nombre, que se extiende por todo el universo conocido"
+                }
+            },
+            "Napoleón": {
+                "Lanzamiento": "2023",
+                "Genero": "Drama, Historia",
+                "Descripcción": {
+                    "=": "Los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador, La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina."
+                }
+            },
+            "SawX": {
+                "Lanzamiento": "2023",
+                "Genero": "Triller, Terror, Gore",
+                "Descripcción": {
+                    "=": "Situada entre los acontecimientos sucedidos en SAW y SAW II, John, desesperado y enfermo, viaja a México para someterse a un tratamiento experimental y muy arriesgado con la esperanza de curar su cáncer mortal, Sin embargo, toda la operación resulta ser un fraude para engañar a aquellos más vulnerables, Lleno de rabia y con un nuevo y escabroso propósito, John retomará su trabajo como asesino en serie y dará a probar su propia medicina a los embaucadores, Bajo la atenta mirada de Jigsaw, los jóvenes se enfrentaran a las trampas más ingeniosas, mortales y tortuosas en un visceral y despiadado juego."
+                }
+            },
+            "Argylle": {
+                "Lanzamiento": "2024",
+                "Genero": "Triller, Acción, Comedia, Espionaje",
+                "Descripcción": {
+                    "=": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece."
+                }
+            },
+            "Beekeeper": {
+                "Lanzamiento": "2024",
+                "Genero": "Acción, Triller, Venganza",
+                "Descripcción": {
+                    "=":"La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como Beekeeper."
+                }
+            },
+            "Bob Marley La Leyenda": {
+                "Lanzamiento": "2024",
+                "Genero": "Drama, Biopic",
+                "Descripcción": {
+                    "=": "Una celebración de la vida y la música de un icono que inspiró a generaciones a través de su mensaje de amor y unidad, Por primera vez en la gran pantalla, descubrimos la historia de superación de la adversidad de Bob y la travesía que subyace a su música revolucionaria."
+                }
+            }
+        }
+    }
+    }
+}
